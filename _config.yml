@@ -20,21 +20,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # title of site appears in banner
 title: King and Miller Family Archive
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Sampling of items from Forrest and Margaret (Miller) King
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: "Based on items from the Forrest and Margaret (Miller) King household, this is a growing archive that provides a glimpse of family history."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: King;Miller;Forrest;Margaret
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: LisaMKing
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: kingmillermetadata
+metadata: kingmillermetadata1
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:

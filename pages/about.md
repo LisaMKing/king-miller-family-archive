@@ -8,26 +8,18 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="kmfam013" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
+## About This Archive
 
-## About CollectionBuilder CSV
+Family archives are strange, in that we always have to choose a place to start, and we are limited by the collections we have access to. This collection has Forrest and Margaret Miller King as its center, though there are items in the collection that clearly point backwards and forwards in time, too. The objects here are also just a sampling of what the wider family has. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Based on a box of items given to me by Aunt Gwen to archive in 2019 after Grandma's passing, I've chosen samples of items that help trace Forrest and Margaret's growing family as well as document the German Mennonite heritage as it manifests in the German school reader and the Miller family's German-language Bible. I hope to add more items as I can to deepen the scope and to trace more branches of the family, as well as make corrections on the historical data as necessary.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Many thanks to all the family members who have shared and helped me track down information!
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Lisa King
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+{% include feature/image.html objectid="kmfam015" width="75" %} 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
